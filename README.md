@@ -11,6 +11,10 @@ This project features neural style transfer made from scratch using VGG19. We di
 
 
 
+![image](https://user-images.githubusercontent.com/108239710/232346053-951a17ef-1078-488f-9d0a-25c8651335f8.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/108239710/232345994-f367074a-817f-47f3-862b-ce09fba3a850.png)
 
 
