@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    </head>
+    <body>
+        <h1 class='title'>Neural Style Transfer Visualization</h1>
+        <h1 class='title'>Neural Style Transfer Visualization</h1>
+        <div class = "container">
+            <div class = 'box p1' id = 'image-container1'><input type="file" id="file-input1"></div>
+            <span class = "plus">+</span>
+            <div class = 'box p2' id = 'image-container2'><input type="file" id="file-input2"></div>
+            <span class = "equals">=</span>
+            <div class = 'box p3' id = 'image-container3' id = "file-input3"></div>
+        </div>
+        <div class = "buttz">
+            <button class = "butt" id = "send-data">Generate</button><button class = "butt" id = "prev-data">Preview</button>
+        </div>
+        
+        <script src="{{ url_for('static', filename='stuff.js') }}" async defer></script>
+    </body>
+</html>
