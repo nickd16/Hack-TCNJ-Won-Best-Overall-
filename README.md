@@ -6,8 +6,7 @@ This project features neural style transfer made from scratch using VGG19 which 
 On my own outside of the hackathon, I added my own way to visualize the algorithm so you can see the progression of the content image over time. An example is shown below as well as some cool results from the Neural Style Transfer algorithm
 
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/108239710/232957504-b81e2786-fd87-4d5e-abd4-745a03c4f0cf.gif)
-
+https://user-images.githubusercontent.com/108239710/232958108-69df2594-e752-41bc-9519-11ecc7f401c5.mp4
 
 
 ![image](https://user-images.githubusercontent.com/108239710/232345928-782092f8-6321-4a22-8034-dcdf045603f2.png)
