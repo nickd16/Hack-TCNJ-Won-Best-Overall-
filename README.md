@@ -1,4 +1,4 @@
-# Flask Web App featuring Neural Style Transfer and Visualization
+# Flask Web App featuring Neural Style Transfer with Visualization
 
 
 This project features neural style transfer made from scratch using VGG19 which we display in a flask web-application. I was responsible for implementing neural style transfer while my teammate @cerredz implemented the react.js frontend. This project won best overall hack at TCNJ's 2023 hackathon.
